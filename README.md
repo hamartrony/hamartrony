@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://github.com/hamartrony">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamartrony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamartrony&layout=compact&langs_count=7&theme=dracula&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamartrony&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamartrony&layout=compact&langs_count=7&theme=apprentice&cache_seconds=1800"/>
 
 </div>
   <div align="center">
